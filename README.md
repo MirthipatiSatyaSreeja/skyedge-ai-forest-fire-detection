@@ -250,7 +250,6 @@ The exact numerical results should be taken from the final model execution.
 ## 15. Future Improvements
 
 Possible future improvements include:
-
 * Real-time forest fire detection
 * Video-based fire detection
 * Drone-based image acquisition
