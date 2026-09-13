@@ -259,9 +259,3 @@ Possible future improvements include:
 * Real-time alerts
 * Additional fire and smoke classes
 * Deployment on edge computing devices
-
-## 16. Author
-
-SkyEdge AI
-
-This project was developed as a deep learning and computer vision project for forest fire detection.
